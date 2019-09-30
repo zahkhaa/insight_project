@@ -1,8 +1,7 @@
 # YOUR-TO airbnb
 
 # Overview
-Airbnb is widely used by many people visitng Toronto and looking for temporary accomobodation. Yet, other than having the choice of location, house type (shared, private etc), Airbnb does not allow to filter through listings using personal preferences. Users
-have to browse through the description of each listing to see the details and figure out if it suits their needs. e.g. clean, close to subway, grocery etc. For many users, these preferences are an essestial requirement. Thus, users end up spending considerable amount of time on their search with no guarantee that their chosen listing is the best one among similar listings.
+Airbnb is widely used by many people visitng Toronto and looking for temporary accomobodation. Yet, other than providing basic choices such as accomodation type (shared, private etc), the site does not allow to filter through listings using personal taste preferences. Users have to browse through the description of each listing to see the details and figure out if it suits their needs. e.g. no noise, close to subway, grocery etc. For many users, these preferences are an essestial requirement. Thus, users end up spending considerable amount of time on their search with no guarantee that their chosen listing is the best one among similar listings.
 
 Developed using machine learning, Your-TO airbnb allows you to easily find the perfect Toronto Airbnb that satisfies your personal taste.
 Features include:
