@@ -3,14 +3,14 @@
 # Overview
 Airbnb is widely used by many people visitng Toronto and looking for temporary accomobodation. Yet, other than providing basic choices such as accomodation type (shared, private etc), the site does not allow to filter through listings using personal taste preferences. Users have to browse through the description of each listing to see the details and figure out if it suits their needs. e.g. no noise, close to subway, grocery etc. For many users, these preferences are an essestial requirement. Thus, users end up spending considerable amount of time on their search with no guarantee that their chosen listing is the best one among similar listings.
 
-Developed using machine learning, Your-TO airbnb allows you to easily find the perfect Toronto Airbnb that satisfies your personal taste.
+Developed using machine learning, where-TO-stay allows you to easily find the perfect Toronto Airbnb that satisfies your personal taste.
 Features include:
 
-(1) Find best finds based on YOUR-TO airbnb's pricing algorithm - it compares similar listings and identifies the underpriced ones.
+(1) Find best finds based on where-TO-stay airbnb's pricing algorithm - it compares similar listings and identifies the underpriced ones.
 
-(2) Want a modern apartment or a clean aesthetic one? No need to waste time reading through airbnb's long descriptions. Filter listings for your personal preferences.
+(2) Want a cozy apartment or a modern one? No need to waste time reading through airbnb's long descriptions. Filter listings for your personal preferences.
 
-(3) Understand a listings surroundings. Is the listing close to metro and/or grocery? Do you want to avoid noise?
+(3) Understand a listings surroundings. Is the listing at a walking distance to metro and/or grocery? Do you want to avoid noise?
 
 # Data Collection, Cleaning and Preprocessing
 A total of four datasets were used in this project.
