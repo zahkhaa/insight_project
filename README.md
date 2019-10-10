@@ -12,7 +12,7 @@ Features include:
 
 (3) Understand listings surroundings. Is the listing at a walking distance to metro and/or grocery? Do you want to avoid noise?
 
-
+C:\Users\Zahra\Desktop\insight\GitProjects\insight_project_toronto\app\pics
 
 # Data Collection, Cleaning and Preprocessing
 A total of four datasets were used in this project.
