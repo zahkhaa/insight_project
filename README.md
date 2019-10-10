@@ -12,7 +12,7 @@ Features include:
 
 (3) Understand listings surroundings. Is the listing at a walking distance to metro and/or grocery? Do you want to avoid noise?
 
-![alt text](https://raw.githubusercontent.com/zahkhaa/insight_project/blob/master/app/pics/ezgif.com-gif-maker.gif)
+![alt text](https://raw.github.com/zahkhaa/insight_project/blob/master/app/pics/ezgif.com-gif-maker.gif)
 
 # Data Collection, Cleaning and Preprocessing
 A total of four datasets were used in this project.
