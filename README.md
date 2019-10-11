@@ -15,7 +15,7 @@ Features include:
 
 ![alt text](https://github.com/zahkhaa/insight_project/blob/master/app/pics/ezgif.com-gif-maker.gif?raw=true "DEMO: where-TO-stay")
 
-# Data Collection, Cleaning and Preprocessing
+## Data Collection, Cleaning and Preprocessing
 A total of four datasets were used in this project.
 
 (1) Airbnb listings and the relevant details: scraped data of Airbnb listings in Toronto. 
@@ -26,7 +26,7 @@ A total of four datasets were used in this project.
 
 (4) Grocery store locations: filtered and geocoded from the city of Toronto's open database for liscened retail stores.
 
-# Modelling
+## Modelling
 In this project, two models were used: (1) the topic model and (2) the pricing model.
 
 (1) Topic model
@@ -37,7 +37,7 @@ I used XGBoost to develop a pricing model, where I predict the price of each Air
 
 Moreover, based on the deviation between actual and estimated price the user can view the best underpriced listings, marked as "Best Finds".
 
-# Web App
+## Web App
 Using the aforementioned model, I created where-TO-stay, a web app deployed with Flask on AWS using carto.js. 
 
 The app clearly describes to the user:
