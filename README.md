@@ -26,12 +26,18 @@ A total of four datasets were used in this project.
 (4) Grocery store locations: filtered and geocoded from the city of Toronto's open database for liscened retail stores.
 
 # Modelling
-In this project, two models used: (1) the topic model and (2) the pricing model.
+In this project, two models were used: (1) the topic model and (2) the pricing model.
 
 (1) Topic model
-I am using a Latend Dirichlet Allocation (LDA) model to extract latent topics in Airbnb listing description. This way the user can easily select listings that match their taste. For instance, if the user is interested in searching for renovated listings with modern features, they can filter the topic #modern, which is extracted based on the topic model developed in this notebook.
+I used a Latend Dirichlet Allocation (LDA) model to extract latent topics in Airbnb listing description. This way the user can easily select listings that match their taste. For instance, if the user is interested in searching for renovated listings with modern features, they can filter the topic #modern, which is extracted based on the topic model developed in the second notebook.
 
 (2) Pricing model
-I am using XGBoost to develop a pricing model, where I predict the price of each Airbnb listing in Toronto using physical, surrounding environment and topic modeling features. The pricing model aims to improve the user experience by adding a level of pricing transparency showing not only the actual listing price, but also its estimated price. This estimate reflects (assuming a robust and unbiased model) essentially how similar listings are priced.
+I used XGBoost to develop a pricing model, where I predict the price of each Airbnb listing in Toronto using physical, surrounding environment and topic modeling features. The pricing model aims to improve the user experience by adding a level of pricing transparency showing not only the actual listing price, but also its estimated price. This estimate reflects (assuming a robust and unbiased model) essentially how similar listings are priced.
 
-Moreover, based on the deviation between actual and estimated price the user can view underpriced listings, marked as great deals.
+Moreover, based on the deviation between actual and estimated price the user can view the best underpriced listings, marked as "Best Finds".
+
+# Web App
+Using the aforementioned model, I created where-TO-stay, a web app deployed with Flask on AWS using carto.js. 
+The app clearly describes to the user:
+(a) its purpose; and 
+(b) how to utilize it to find the best deals for the users specific taste among all the Toronto airbnb listings.
