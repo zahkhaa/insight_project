@@ -1,5 +1,4 @@
-# where-TO-stay
-#### 'Find your perfect Airbnb in Toronto'
+# where-TO-stay   - #### 'Find your perfect Airbnb in Toronto'
 
 
 ## Overview
