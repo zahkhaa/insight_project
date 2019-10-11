@@ -1,5 +1,5 @@
-## where-TO-stay
-# Find your perfect Airbnb in Toronto
+# where-TO-stay
+## Find your perfect Airbnb in Toronto
 
 # Overview
 Airbnb is widely used by many people visiting Toronto and looking for temporary accommodation. Yet, other than providing basic filter choices such as accommodation type (shared, private etc), the site does not allow to filter through listings using personal taste preferences. Users have to browse through the description of each listing to see the details and figure out if it suits their needs. e.g. cozy apartment, no noise, close to subway, grocery etc. For many users, some of these preferences are an essential requirement. Thus, users end up spending considerable amount of time on their search with no guarantee that their chosen listing is the best one among similar listings.
